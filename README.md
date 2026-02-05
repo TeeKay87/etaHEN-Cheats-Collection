@@ -18,6 +18,8 @@ Open https://github.com/TeeKay87/etaHEN-Cheats-Collection/blob/master/CheatsList
 ### 2026-02-05
 Collection created with new version of my etaHEN Cheats Manager.
 
+Added `Yharnam` cheats.
+
 As etaHEN only can use one cheat of each file format at a time, this version of eHEN-CM defaults to only keep the largest file by file size as that file is more likely to contain the largest amount of cheats.
 
 Some of the official cheats, and cheats from other sources, are missing tags in their json and xml formatting, and some have other issues. eHEN-CM now tries to repair these broken files to hopefully make more cheats work as intended.
