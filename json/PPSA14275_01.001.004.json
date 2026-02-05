@@ -1,0 +1,40 @@
+{
+  "name": "PPSA14275_00-TRINE50000000000",
+  "id": " ",
+  "version": "01.001.004",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf HP",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "24BB000",
+          "on": "81BC8174FFFFFFDF0A0000740C448934814C89FFE9709820FF4183FE0074084C89FFE9629820FF448934814C89FFE9569820FF",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "16C4882",
+          "on": "E97967DF009090",
+          "off": "448934814C89FF"
+        }
+      ]
+    },
+    {
+      "name": "Inf Lives",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C0934E",
+          "on": "90909090",
+          "off": "44892C88"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}
