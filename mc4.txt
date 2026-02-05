@@ -1059,6 +1059,7 @@ PPSA02225_02.024.000.mc4=Ghost of Tsushima: Director's Cut
 PPSA02372_01.005.000.mc4=Evil West
 PPSA02433_01.000.002.mc4=Crash Bandicoot 4: It's About Time Digital Purchase Pack
 PPSA02474_01.000.500.mc4=Terminator: Resistance Enhanced
+PPSA02525_01.009.000.mc4=Tormented Souls
 PPSA02632_01.000.000.mc4=Street Fighter 6
 PPSA02633_01.000.000.mc4=Street Fighter 6
 PPSA02663_01.000.000.mc4=Alex Kidd in Miracle World DX

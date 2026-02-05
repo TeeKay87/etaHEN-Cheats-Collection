@@ -16,6 +16,8 @@ Open https://github.com/TeeKay87/etaHEN-Cheats-Collection/blob/master/CheatsList
 
 ## Version History
 ### 2026-02-05
+`[ADD]`	PPSA02525	01.009.000	Tormented Souls
+
 Collection created with new version of my etaHEN Cheats Manager.
 
 Added `Yharnam` cheats.
