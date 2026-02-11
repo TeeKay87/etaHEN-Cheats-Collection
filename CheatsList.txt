@@ -2101,6 +2101,7 @@ PPSA01341	01.004.000	Demon's Souls
 PPSA01341	01.005.000	Demon's Souls
 PPSA01342	01.004.000	Demon's Souls
 PPSA01342	01.005.000	Demon's Souls
+PPSA01390	01.000.000	Dragon Age™: The Veilguard Deluxe Edition
 PPSA01556	01.210.000	Resident Evil: Village
 PPSA01593	01.000.010	Hogwarts Legacy
 PPSA01619	01.000.004	Mortal Kombat 11

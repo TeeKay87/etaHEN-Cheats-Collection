@@ -15,6 +15,9 @@ Place all files and folders from my collection in `/data/etaHEN/cheats/`.
 Open https://github.com/TeeKay87/etaHEN-Cheats-Collection/blob/master/CheatsList.txt and `CTRL+F` search for either an `ID` or `game title` to find what version of the game has a compatible cheat file.
 
 ## Version History
+### 2026-02-11
+`[ADD]`	PPSA01390	01.000.000	Dragon Age™: The Veilguard Deluxe Edition
+
 ### 2026-02-05
 `[ADD]`	PPSA02525	01.009.000	Tormented Souls
 
